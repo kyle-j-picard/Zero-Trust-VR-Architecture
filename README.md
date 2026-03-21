@@ -1,5 +1,4 @@
 # Zero-Trust-VR-Architecture
-Zero Trust VR Architecture
 
 This repository contains a security architecture proposal that applies Zero Trust principles to enterprise VR environments. As organizations increasingly adopt VR for training, collaboration, and design, these devices introduce unique security challenges that traditional perimeter defenses cannot effectively mitigate.
 
